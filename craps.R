@@ -1,6 +1,6 @@
 # A simulation of craps.
 # Not particularly interesting, but was useful to learn R.
-# Probably inelegant, but no need tol spiffy up.
+# Probably inelegant, but no need to spiffy up.
 
 sims = rep(0, 1000)
 for (j in 1:1000) {		# Simulate 1,000 "tables" of craps ...
